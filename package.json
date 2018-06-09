@@ -1,0 +1,11 @@
+{
+  "name": "myfirstnpmpkg-convertcolors",
+  "version": "1.0.0",
+  "description": "Convert Colors from Hexa to RGB and vice versa",
+  "main": "convertColors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Nisar Ahmed",
+  "license": "ISC"
+}
