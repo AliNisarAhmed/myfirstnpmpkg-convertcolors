@@ -4,4 +4,6 @@
 
 Exports `convertColor` function.
 
+*To use: `import convertColor from "convertColor.js";`*
+
 Input color is auto-detected as Hex or RGB.
