@@ -73,4 +73,4 @@ function convertColor(str) {
   }
 }
 
-export default convertColor;
+module.exports = convertColor;

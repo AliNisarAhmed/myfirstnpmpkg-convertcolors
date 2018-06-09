@@ -4,6 +4,6 @@
 
 Exports `convertColor` function.
 
-*To use: `import convertColor from "convertColor.js";`*
+*To use: `const convertColors = require('convertColors.js')`*
 
 Input color is auto-detected as Hex or RGB.
